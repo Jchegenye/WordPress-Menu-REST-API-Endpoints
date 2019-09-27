@@ -3,11 +3,11 @@ Custom RESTful endpoints for WordPress menus
 
 ## Usage
 
-### Single menu by ID
+#### Get a single menu by ID
 https://example.com/wp-json/wp/v1/menu/YOUT_MENU_ID
 
-### Single menu by slug
+#### Get a single menu by slug
 https://example.com/wp-json/wp/v1/menu/YOUT_MENU_SLUG
 
-### Single menu by its theme location
+#### Get a single menu by its theme location
 https://example.com/wp-json/wp/v1/menu/location/YOUT_MENU_TEHEME_LOCATION
