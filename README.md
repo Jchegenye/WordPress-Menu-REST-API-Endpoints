@@ -10,4 +10,4 @@ https://example.com/wp-json/wp/v1/menu/YOUT_MENU_ID
 https://example.com/wp-json/wp/v1/menu/YOUT_MENU_SLUG
 
 #### Get a single menu by its theme location
-https://example.com/wp-json/wp/v1/menu/location/YOUT_MENU_TEHEME_LOCATION
+https://example.com/wp-json/wp/v1/menu/location/YOUT_MENU_THEME_LOCATION
