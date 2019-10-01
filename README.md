@@ -16,9 +16,9 @@ https://example.com/wp-json/wp/v1/menu/location/YOUT_MENU_THEME_LOCATION
 
 ### Example
 
+```
 /**
  * Fetch all Menu json data.
- *
  * @param array $menu_type Theme Location name i.e primary etc.
  * @return array
  */
@@ -32,3 +32,4 @@ function menu_api_endpoint($menu_type = null){
 	//var_dump($json);
 
 }
+```
